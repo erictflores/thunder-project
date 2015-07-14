@@ -37,7 +37,7 @@ var DRAG = 400;
 var MAXSPEED = 400;
 
 function preload() {
-    game.load.image('enemy-green', './assets/enemy-green.png');
+    game.load.image('enemy-green', './assets/asteroid.png');
     game.load.image('blueEnemyBullet', './assets/enemy-blue-bullet.png');
     game.load.spritesheet('explosion', './assets/explode.png', 128, 128);
     game.load.bitmapFont('spacefont', './assets/spacefont/spacefont.png', './assets/spacefont/spacefont.xml');
