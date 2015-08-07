@@ -7,7 +7,7 @@ Not much of the source code is my own, but had a lot of fun learning about Phase
 
 Visit [http://mealette.herokuapp.com](try to get this on heroku?) to see the app in action. (Currently compatible on Google Chrome Browser through a desktop device).
 
-![phaser game tutorial](/assets/phaser-game-screen-shot.png)
+![phaser](/assets/phaser-game-screen-shot.png)
 
 
 ## Resources
