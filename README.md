@@ -5,7 +5,7 @@ I was a bit burnt out at this time and decided to use the Phaser framework and b
 
 Not much of the source code is my own, but had a lot of fun learning about Phaser, brushing up my JavaScript skills, and, of course, playing the game itself.
 
-Visit [http://mealette.herokuapp.com](try to get this on heroku?) to see the app in action. (Currently compatible on Google Chrome Browser through a desktop device).
+Visit [http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/] to see the tutorial and play the game.
 
 ![phaser](/assets/screen-shot.png)
 
